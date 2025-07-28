@@ -1,0 +1,98 @@
+Query: What is the contact Info
+Answer: The user's question asks for information about Sarah Johnson's personal and employment details. The context provides that she has a monthly income of $120, which can be used to fund food assistance programs. Additionally, her application requests childcare support from the Social Security Administration (SSA).
+
+To provide accurate information, I would need to access the user's personal and employment details through the context provided. This could involve searching for Sarah Johnson's contact information in a database or using publicly available data sources such as the SSA website or government records.
+Helpful: No
+Comment: In contact info we give mobile Number
+---
+Query: Mobile number and email Id?
+Answer: The context provided is a personal information form for the applicant. The question asks about the applicant's mobile phone number and email ID.
+Helpful: Yes
+---
+Query: what is the mail-id for the user
+Answer: The mail-id for the user is 987-65-4321.
+Helpful: No
+Comment: it must have @ in it 
+---
+Query: summarize the doc for me please
+Answer: Based on the context provided, here is a summary of the document for you:
+
+**Summary:**
+
+The Social Security Administration (SSA) provides financial assistance to individuals who are eligible for disability benefits. The SSA uses a complex system to determine eligibility and award benefits based on a variety of factors, including medical evidence, work history, and other relevant information.
+
+**Eligibility Criteria:**
+
+To be eligible for SSDI benefits, an individual must have a disabling medical condition that prevents them from engaging in any substantial gainful activity (SGA) for at least 12 months or is expected to result in death. The SSA uses a complex formula to determine the amount of benefits owed based on the individual's earnings history and other relevant factors.
+
+**Application Process:**
+
+To apply for SSDI benefits, an individual must submit an application through the SSA's online portal or by mail. The application process typically involves providing detailed information about the individual's medical condition, work history, and other relevant circumstances. The SSA will review the application to determine eligibility and award benefits if necessary.
+
+**Benefits Amount:**
+
+The amount of SSDI benefits owed varies depending on the individual's earnings history and other factors. In general, SSDI benefits are intended to provide a supplemental income to help individuals with disabilities meet their basic needs. The SSA uses a complex formula to determine the amount of benefits owed based on the individual's earnings history and other relevant circumstances.
+
+**Application Requirements:**
+
+To apply for SSDI benefits, an individual must:
+
+1. Have a disabling medical condition that prevents them from engaging in any substantial gainful activity (SGA) for at least 12 months or is expected to result in death.
+2. Have a valid Social Security number and address.
+3. Provide detailed information about their medical condition, work history, and other relevant circumstances.
+4. Submit an application through the SSA's online portal or by mail.
+5. Provide proof of identity and residency (e.g., driver's license, passport).
+
+**Application Process Timeline:**
+
+The application process for SSDI benefits typically takes several months to complete. The SSA will review the application and may request additional information or documentation before making a decision. In some cases, the SSA may request an interview with the applicant or their healthcare provider to gather more information about their medical condition.
+
+**Application Fees:**
+
+The SSA does not charge fees for SSDI applications. However, applicants may be required to pay a small administrative fee of $10 to process their application.
+
+I hope this summary helps! Let me know if you have any further questions or need more information.
+Helpful: Yes
+---
+Query: summarize the doc for me please
+Answer: Based on the context provided, here is a summary of the document for you:
+
+**Summary:**
+
+The Social Security Administration (SSA) provides financial assistance to individuals who are eligible and have applied for benefits. The SSA's primary goal is to help people in need by providing financial support during times of hardship or disability.
+
+**Eligibility Criteria:**
+
+To be eligible for SSA benefits, an individual must meet certain criteria, including:
+
+1. Age: Must be at least 65 years old (or 50 if disabled).
+2. Work Credits: Earned through work in the United States or qualifying aliens.
+3. Disability: Must have a disability that prevents them from working for at least 12 months.
+4. Medical Evidence: Must provide medical evidence of their disability, including doctor's reports and other relevant documentation.
+5. Application: Must apply for benefits online, by phone, or in person.
+
+**Benefits:**
+
+The SSA offers several types of benefits to eligible individuals, including:
+
+1. Supplemental Security Income (SSI): A monthly cash payment to help with basic needs.
+2. Social Security Disability Insurance (SSDI): A monthly cash payment to help with disability-related expenses.
+3. Retirement Benefits: A monthly cash payment to eligible workers who have paid Social Security taxes for at least 40 quarters.
+4. Survivor's Benefits: A monthly cash payment to eligible spouses and children of deceased workers.
+5. Disability Insurance Benefits: A monthly cash payment to eligible workers who are unable to work due to a disability.
+
+**Application Process:**
+
+To apply for SSA benefits, an individual must follow these steps:
+
+1. Gather required documents: Social Security card, birth certificate, marriage certificate (if applicable), and proof of age.
+2. Complete the application online or by phone: The SSA provides a website and phone number to apply online or in person.
+3. Submit the application: The applicant must submit their application with supporting documents and evidence.
+4. Wait for a decision: The SSA will review the application and may request additional information or medical evidence.
+5. Receive a decision: If approved, the applicant will receive a notice stating the amount of benefits they are eligible to receive.
+
+**Additional Resources:**
+
+For more information on SSA benefits, eligibility criteria, and the application process, you can visit the SSA website at [www.ssa.gov](http://www.ssa.gov). You can also contact the SSA directly at 1-800-772-1213 or visit a local SSA office for assistance.
+Helpful: Yes
+---

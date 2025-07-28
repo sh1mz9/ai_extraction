@@ -1,0 +1,12 @@
+streamlit
+pandas
+pytesseract
+Pillow
+langchain
+langchain-community
+faiss-cpu
+ollama
+docx2txt
+pypdf
+unstructured
+openpyxl
