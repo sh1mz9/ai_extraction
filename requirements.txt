@@ -10,3 +10,8 @@ docx2txt
 pypdf
 unstructured
 openpyxl
+langchain-ollama
+pydantic
+fastapi
+uvicorn[standard]
+python-multipart
