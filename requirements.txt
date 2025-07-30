@@ -15,3 +15,4 @@ pydantic
 fastapi
 uvicorn[standard]
 python-multipart
+##ollama pull nomic-embed-text and ollama pull smollm
